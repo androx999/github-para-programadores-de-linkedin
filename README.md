@@ -1,2 +1,2 @@
 # Bienvenido al curso de github-para-programadores-de-linkedin
-Pruea de repositorio de Linkedin
+Prueba de repositorio de Linkedin
